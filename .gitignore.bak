@@ -56,7 +56,7 @@ site/themes/
 site/tmp/
 site/sites/default/
 site/sites/all/libraries/
-site/sites/all/modules/
-site/sites/all/themes/bootstrap/
-site/sites/all/themes/pan/
-site/sites/all/themes/zen/
+sites/all/modules/
+sites/all/themes/bootstrap/
+sites/all/themes/pan/
+sites/all/themes/zen/
